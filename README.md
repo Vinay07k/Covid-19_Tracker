@@ -5,7 +5,18 @@ Featues:
 2. You can also track country wise
 3. Dark and light mode
 
-![alt-text-1](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021234.png) ![alt-text-2](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021269.png) ![alt-text-3](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021283.png)
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## Getting Started
 
