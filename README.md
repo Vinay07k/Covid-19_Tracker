@@ -5,9 +5,7 @@ Featues:
 2. You can also track country wise
 3. Dark and light mode
 
-![](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021234.png)
-![](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021269.png)
-![](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021283.png)
+![](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021234.png) ![](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021269.png) ![](https://raw.githubusercontent.com/Thevinaypatwal/Covid-19_Tracker/main/Screenshot_1607021283.png)
 
 ## Getting Started
 
