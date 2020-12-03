@@ -7,9 +7,9 @@ Featues:
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Home Page</td>
+     <td>Search Page</td>
+     <td>FAQs</td>
   </tr>
   <tr>
     <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
