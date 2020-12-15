@@ -1,7 +1,7 @@
 # Covid-19_Tracker
 Covid tracker is a flutter app which help us to track the covid conditon in our area 
 Featues:
-1. You can find the most affected country by covid and their statics
+1. You can find the most affected country by covid and their statistics
 2. You can also track country wise
 3. Dark and light mode
 
